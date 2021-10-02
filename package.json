@@ -1,0 +1,16 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.5.1",
+        "server_scripts": [
+                "server/sv_FasterThanTalos.lua"
+        ],
+        "client_scripts": [
+                "client/cl_FasterThanTalos.lua"
+        ],
+        "shared_scripts": [
+                "shared/sh_FasterThanTalos.lua",
+                "shared/LoadInEnvs.lua"
+        ]
+
+}
