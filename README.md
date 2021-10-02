@@ -1,2 +1,2 @@
 # onset-FasterThanTalos
-Adds missing stuff and fixes Onset issues
+[Wiki](https://github.com/vugi99/onset-FasterThanTalos/wiki)
