@@ -1,2 +1,2 @@
 # onset-FasterThanTalos
-[Wiki](https://github.com/vugi99/onset-FasterThanTalos/wiki)
+# [Wiki](https://github.com/vugi99/onset-FasterThanTalos/wiki)
